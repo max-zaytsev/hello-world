@@ -14,3 +14,4 @@ steps:
   inputs:
     packageName: 'nugetSampleNew'
     version: '1.0.0'
+    externalFeedCredentials: GH-Nuget
