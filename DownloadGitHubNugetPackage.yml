@@ -12,6 +12,6 @@ pool:
 steps:
 - task: DownloadGitHubNugetPackage@1
   inputs:
-    packageName: 'nugetSampleNew'
+    packageName: 'my/nugetSampleNew'
     version: '1.0.0'
     externalFeedCredentials: GH-Nuget
